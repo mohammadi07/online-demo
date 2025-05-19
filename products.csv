@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price
+P001,Widget A,Gadgets,9.99
+P002,Widget B,Gadgets,9.99
+P003,Widget C,Accessories,9.99
+P004,Gizmo A,Devices,14.99
+P005,Gizmo B,Devices,12.0
+P006,Widget D,Gadgets,8.99
+P007,Accessory A,Accessories,4.99
+P008,Tool A,Tools,19.99
+P009,Tool B,Tools,24.99
+P010,Accessory B,Accessories,5.99

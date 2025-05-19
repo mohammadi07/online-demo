@@ -1,0 +1,11 @@
+StoreID,StoreName,Location
+S001,Downtown Store,"New York, NY"
+S002,Uptown Store,"New York, NY"
+S003,Midtown Store,"New York, NY"
+S004,Central Store,"Chicago, IL"
+S005,Northside Store,"Chicago, IL"
+S006,Southside Store,"Chicago, IL"
+S007,Bay Area Store,San Francisco
+S008,Silicon Store,"San Jose, CA"
+S009,Sunset Store,Los Angeles
+S010,Hollywood Store,Los Angeles
